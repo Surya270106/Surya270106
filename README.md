@@ -1,6 +1,6 @@
 <div align="center">
 
-# SYSTEM_ARCHITECT
+# SYSTEM ARCHITECT
 
 **Designing scalable futures with precision.**
 
